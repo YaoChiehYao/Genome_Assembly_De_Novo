@@ -1,6 +1,6 @@
-NF 6308 Assignment6
+BINF 6308 Assignment6
 
-Project name: Genome Assembly
+# Project name: Genome Assembly
 The project demos the genome assembly process by using
 third-party modules such as fastq-dump, trimmomatic,
 spades.py, and quast.py, and in the end, a quality report
